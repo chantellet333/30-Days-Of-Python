@@ -9,18 +9,20 @@ current_year = 2026
 is_married = False
 is_true = True
 is_light_on = True
-store_name, current_employees, days_open_a_week = "ALDI", 35000, 5
+store_name, num_current_employees, days_open_a_week = "ALDI", 35000, 5
 
-type(first_name)
-type(last_name)
-type(full_name)
-type(country)
-type(age_int)
-type(current_year)
-type(is_married)
-type(is_true)
-type(is_light_on)
-type(store_name, current_employees, days_open_a_week)
+print(type(first_name))
+print(type(last_name))
+print(type(full_name))
+print(type(country))
+print(type(age_int))
+print(type(current_year))
+print(type(is_married))
+print(type(is_true))
+print(type(is_light_on))
+print(type(store_name))
+print(type(num_current_employees))
+print(type(days_open_a_week))
 
 len(first_name)
 len(last_name)
